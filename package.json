@@ -1,0 +1,25 @@
+{
+  "name": "allex_ondatasinkjobslib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with Jobs for typical DB handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/ondatasinkjobs.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "db",
+    "jobs",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/ondatasinkjobs/issues"
+  },
+  "homepage": "https://github.com/allex-libs/ondatasinkjobs#readme"
+}
