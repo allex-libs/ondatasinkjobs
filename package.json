@@ -1,6 +1,6 @@
 {
   "name": "allex_ondatasinkjobslib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AllexJS lib with Jobs for typical DB handling",
   "main": "index.js",
   "scripts": {
